@@ -6,7 +6,7 @@ Estudiante de Ciencia de Datos en Organizaciones (UNLP), enfocado en análisis d
 
 🛠️ Python (Pandas, Polars, Plotly, matplotlib, Dash, Streamlit) · MongoDB · Neo4j · Redis · SQLite · SQL (nivel académico)
 
-📫 Contacto: [LinkedIn](https://www.linkedin.com/in/lautaroloredo-57705426a)
+📫 Contacto: [LinkedIn](https://www.linkedin.com/in/lautaro-loredo-57705426a/)
 
 ### Proyectos destacados
 
